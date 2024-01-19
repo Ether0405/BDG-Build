@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1696],{41696:function(a,b,c){c.r(b);var d=c(85893),e=c(11163),f=c(9882),g=c(84492),h=function(){var a=(0,e.useRouter)().query.collectionAddress,b=(0,f.YD)(a);return(0,d.jsx)(d.Fragment,{children:(0,d.jsx)(g.Z,{collection:b})})};b.default=h}}])

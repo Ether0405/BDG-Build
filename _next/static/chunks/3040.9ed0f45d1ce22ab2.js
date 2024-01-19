@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3040],{23040:function(a,b,c){c.r(b),c.d(b,{CAKE_BNB_LP_MAINNET:function(){return d}});var d="0x0eD7e52944161450477ee417DE9Cd3a859b14fD0"}}])
